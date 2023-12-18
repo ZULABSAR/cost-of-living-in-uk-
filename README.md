@@ -1,1 +1,2 @@
 # cost-of-living-in-uk-
+Developed a predictive model employing two machine learning algorithms to forecast the cost of living in various cities across the UK. This involved leveraging historical cost data, economic indicators, and regional trends as crucial input features. The resulting insights provided valuable information for individuals, businesses, and policymakers to enhance financial planning and decision-making.
